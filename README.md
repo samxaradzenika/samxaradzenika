@@ -5,7 +5,7 @@ Hi, I'm Nika 👨‍💻
 ## About Me
 
 • 📖 I’m self learning developer focused on Front-End <br><br>
-• 👨‍💻 I’m experienced with Javascript, React, HTML&CSS, Styled-Components <br><br>
+• 👨‍💻 I’m experienced with Javascript, React, HTML&CSS, Styled-Components and Bootstrap <br><br>
 • 🏠 Based in Georgia, Rustavi <br><br>
 • 🎬 Planning to become React + Node.js fullstack <br><br>
 • 💬 I'm open for job opportunities aswell as project collabs <br><br>
